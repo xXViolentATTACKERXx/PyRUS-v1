@@ -1,4 +1,4 @@
-# PyRUS
+# PyRUS V1
  A Trojan Graphic Virus made in python 
 -----------------------------
 PyRus V1
