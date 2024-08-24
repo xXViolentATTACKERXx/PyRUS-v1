@@ -1,6 +1,3 @@
-# PyRUS V1
- A Trojan Graphic Virus made in python 
------------------------------
 PyRus V1
 -----------------------------
 DISCLAIMER! THIS IS NOT A DESTRUCTIVE TROJAN!
